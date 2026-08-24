@@ -10,8 +10,8 @@ Important: keep the assets/ folder in this repository.
 <br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=55&lines=Building+secure%2C+scalable+and+maintainable+.NET+applications;C%23+%E2%80%A2+ASP.NET+Core+%E2%80%A2+Web+API+%E2%80%A2+EF+Core+%E2%80%A2+PostgreSQL;React+%E2%80%A2+Kafka+%E2%80%A2+Docker+%E2%80%A2+JWT+%E2%80%A2+Cloud;Business+requirements+%E2%86%92+working+software"
-alt="Animated introduction"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=55&lines=Building+secure%2C+scalable+and+maintainable+.NET+applications;C%23+%E2%80%A2+ASP.NET+Core+%E2%80%A2+Web+API+%E2%80%A2+EF+Core+%E2%80%A2+PostgreSQL;React+%E2%80%A2+Kafka+%E2%80%A2+Docker+%E2%80%A2+JWT+%E2%80%A2+Cloud;Business+requirements+%E2%86%92+working+software"
+  alt="Animated introduction"
 />
 
 <p>
@@ -40,31 +40,24 @@ alt="Animated introduction"
 
 <img src="./assets/section-about.svg" width="100%" alt="About me" />
 
-I'm Aakash Chougule, a .NET-focused software developer who enjoys building complete applications — from database design and backend logic to API security, frontend integration, testing and deployment.
+I'm **Aakash Chougule**, a .NET-focused software developer who enjoys building complete applications — from database design and backend logic to API security, frontend integration, testing and deployment.
 
-My strongest focus is C#, ASP.NET Core, REST APIs, Entity Framework Core, SQL databases, authentication, authorization, business logic and maintainable backend architecture.
+My strongest focus is **C#, ASP.NET Core, REST APIs, Entity Framework Core, SQL databases, authentication, authorization, business logic and maintainable backend architecture**.
 
-I also build modern frontend experiences using React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS and Vue.js.
+I also build modern frontend experiences using **React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS and Vue.js**.
 
-⚡ Current focus
+### ⚡ Current focus
 
-🔭 Building an Enterprise E-Commerce & Order Management System
+- 🔭 Building an **Enterprise E-Commerce & Order Management System**
+- 🔐 Strengthening **JWT authentication and role-based authorization**
+- 🧱 Practicing **Clean / Layered Architecture**
+- 📨 Learning **Apache Kafka and event-driven application design**
+- 🐳 Working with **Docker and Docker Compose**
+- 🧪 Improving **unit testing and integration testing**
+- ☁️ Learning **Azure, AWS and CI/CD**
+- 🎯 Open to **.NET Developer, Backend Developer and Full-Stack Developer** roles
 
-🔐 Strengthening JWT authentication and role-based authorization
-
-🧱 Practicing Clean / Layered Architecture
-
-📨 Learning Apache Kafka and event-driven application design
-
-🐳 Working with Docker and Docker Compose
-
-🧪 Improving unit testing and integration testing
-
-☁️ Learning Azure, AWS and CI/CD
-
-🎯 Open to .NET Developer, Backend Developer and Full-Stack Developer roles
-
-My engineering standard: make it work, understand why it works, make it maintainable, secure it, test it, then improve it.
+> **My engineering standard:** make it work, understand why it works, make it maintainable, secure it, test it, then improve it.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -72,13 +65,13 @@ My engineering standard: make it work, understand why it works, make it maintain
 
 <div align="center">
 
-Core Stack
+### Core Stack
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,bootstrap,tailwind,vue&perline=9" />
 
 <br/><br/>
 
-Data • Messaging • DevOps • Cloud
+### Data • Messaging • DevOps • Cloud
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,kafka,docker,git,github,postman,visualstudio,vscode,azure,aws&perline=11" />
 
@@ -99,25 +92,20 @@ Data • Messaging • DevOps • Cloud
 <details>
 <summary><b>🔎 Expand full engineering toolbox</b></summary>
 
-.NET / Backend
+### .NET / Backend
+`C#` · `.NET` · `ASP.NET Core` · `ASP.NET MVC` · `ASP.NET Web API` · `Web Forms` · `Windows Forms` · `Entity Framework Core` · `ADO.NET` · `LINQ` · `Dependency Injection` · `Repository Pattern` · `Service Layer` · `Middleware` · `DTOs` · `Validation`
 
-C# · .NET · ASP.NET Core · ASP.NET MVC · ASP.NET Web API · Web Forms · Windows Forms · Entity Framework Core · ADO.NET · LINQ · Dependency Injection · Repository Pattern · Service Layer · Middleware · DTOs · Validation
+### Data
+`PostgreSQL` · `Microsoft SQL Server` · `MySQL` · `SQL` · `Joins` · `Relationships` · `Indexes` · `Transactions` · `Stored Procedures` · `EF Core Migrations`
 
-Data
+### Frontend
+`React.js` · `JavaScript` · `HTML5` · `CSS3` · `Bootstrap` · `Tailwind CSS` · `Vue.js` · `Responsive UI` · `REST API Integration`
 
-PostgreSQL · Microsoft SQL Server · MySQL · SQL · Joins · Relationships · Indexes · Transactions · Stored Procedures · EF Core Migrations
+### Engineering / DevOps
+`Apache Kafka` · `Docker` · `Docker Compose` · `Git` · `GitHub` · `Postman` · `Visual Studio` · `VS Code` · `CI/CD Concepts`
 
-Frontend
-
-React.js · JavaScript · HTML5 · CSS3 · Bootstrap · Tailwind CSS · Vue.js · Responsive UI · REST API Integration
-
-Engineering / DevOps
-
-Apache Kafka · Docker · Docker Compose · Git · GitHub · Postman · Visual Studio · VS Code · CI/CD Concepts
-
-Cloud — learning & deployment focus
-
-Microsoft Azure · AWS
+### Cloud — learning & deployment focus
+`Microsoft Azure` · `AWS`
 
 </details>
 
@@ -125,7 +113,7 @@ Microsoft Azure · AWS
 
 <img src="./assets/section-projects.svg" width="100%" alt="Projects" />
 
-🛒 Enterprise E-Commerce & Order Management System
+## 🛒 Enterprise E-Commerce & Order Management System
 
 A production-minded full-stack e-commerce project built to practice real software engineering concepts instead of stopping at basic CRUD.
 
@@ -142,27 +130,18 @@ A production-minded full-stack e-commerce project built to practice real softwar
 
 </div>
 
-Highlights
+### Highlights
 
-JWT authentication and role-based authorization
-
-Product, category and inventory management
-
-Shopping cart and checkout
-
-Order lifecycle
-
-GST / CGST / SGST / IGST business rules
-
-Razorpay payment flow and verification
-
-Kafka-based notification architecture
-
-Dockerized services
-
-Unit and integration testing structure
-
-React frontend connected to ASP.NET Core APIs
+- JWT authentication and role-based authorization
+- Product, category and inventory management
+- Shopping cart and checkout
+- Order lifecycle
+- GST / CGST / SGST / IGST business rules
+- Razorpay payment flow and verification
+- Kafka-based notification architecture
+- Dockerized services
+- Unit and integration testing structure
+- React frontend connected to ASP.NET Core APIs
 
 <div align="center">
 
@@ -174,50 +153,23 @@ React frontend connected to ASP.NET Core APIs
 
 <br/>
 
-More selected repositories
+### More selected repositories
 
-Project
-
-What it demonstrates
-
-Repository
-
-🎓 Student Management System API
-
-ASP.NET Core Web API, CRUD, JWT, middleware, EF Core, SQL Server
-
-Open
-
-🤖 ChatBot API
-
-.NET API development and container-ready setup
-
-Open
-
-🏪 Store Management System
-
-C# business application and database CRUD workflows
-
-Open
-
-📦 Inventory Management System
-
-ASP.NET / C# inventory and stock workflows
-
-Open
+| Project | What it demonstrates | Repository |
+|---|---|---|
+| 🎓 **Student Management System API** | ASP.NET Core Web API, CRUD, JWT, middleware, EF Core, SQL Server | [Open](https://github.com/Aakash-Chougule/Student-Management-System-API) |
+| 🤖 **ChatBot API** | .NET API development and container-ready setup | [Open](https://github.com/Aakash-Chougule/ChatBotAPI) |
+| 🏪 **Store Management System** | C# business application and database CRUD workflows | [Open](https://github.com/Aakash-Chougule/store_management_system) |
+| 📦 **Inventory Management System** | ASP.NET / C# inventory and stock workflows | [Open](https://github.com/Aakash-Chougule/Inventry_Management_System) |
 
 <details>
 <summary><b>🧪 More repositories I've built</b></summary>
 
-🌦️ Weather App
-
-🖼️ Image Converter
-
-🎬 Embedded Video Converter
-
-♟️ Chess with AI
-
-🧑‍💻 Coding Wall Project
+- 🌦️ [Weather App](https://github.com/Aakash-Chougule/weather-app)
+- 🖼️ [Image Converter](https://github.com/Aakash-Chougule/image-converter)
+- 🎬 [Embedded Video Converter](https://github.com/Aakash-Chougule/embedded-video-conveter)
+- ♟️ [Chess with AI](https://github.com/Aakash-Chougule/chess-with-ai)
+- 🧑‍💻 [Coding Wall Project](https://github.com/Aakash-Chougule/coding-wall-project)
 
 </details>
 
@@ -227,30 +179,22 @@ Open
 
 <img src="./assets/architecture.svg" width="100%" alt="Animated enterprise architecture" />
 
-🔐 Security principles I care about
+### 🔐 Security principles I care about
 
-Password hashing instead of storing plain-text passwords
+- Password hashing instead of storing plain-text passwords
+- JWT-based authentication
+- Role-based authorization
+- Server-side validation
+- Secrets outside source control
+- Protected API endpoints
+- Proper HTTP status codes
+- Server-side payment verification
+- Global exception handling
+- Logging without exposing sensitive implementation details
 
-JWT-based authentication
+### 🧠 Backend feature flow
 
-Role-based authorization
-
-Server-side validation
-
-Secrets outside source control
-
-Protected API endpoints
-
-Proper HTTP status codes
-
-Server-side payment verification
-
-Global exception handling
-
-Logging without exposing sensitive implementation details
-
-🧠 Backend feature flow
-
+```text
 HTTP Request
     ↓
 Controller / Endpoint
@@ -268,9 +212,11 @@ Database
 Response DTO
     ↓
 HTTP Response
+```
 
-📨 Event-driven flow
+### 📨 Event-driven flow
 
+```text
 Business Event
     ↓
 ASP.NET Core API
@@ -282,6 +228,7 @@ Kafka Topic
 Consumer Service
     ↓
 Notification / Email / Future Integrations
+```
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -289,8 +236,9 @@ Notification / Email / Future Integrations
 
 <img src="./assets/workflow.svg" width="100%" alt="Animated development workflow" />
 
-🐛 How I debug
+### 🐛 How I debug
 
+```text
 REPRODUCE
     ↓
 READ THE ERROR
@@ -304,10 +252,11 @@ ISOLATE ROOT CAUSE
 FIX
     ↓
 RETEST THE COMPLETE FLOW
+```
 
-🧭 Engineering roadmap
+### 🧭 Engineering roadmap
 
-C# → ASP.NET Core → REST APIs → EF Core + SQL → Security → Architecture → Testing → Kafka → Docker → CI/CD → Azure/AWS → System Design
+`C#` → `ASP.NET Core` → `REST APIs` → `EF Core + SQL` → `Security` → `Architecture` → `Testing` → `Kafka` → `Docker` → `CI/CD` → `Azure/AWS` → `System Design`
 
 <div align="center">
 
@@ -321,8 +270,9 @@ C# → ASP.NET Core → REST APIs → EF Core + SQL → Security → Architectur
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-👨‍💻 A little C# about me
+## 👨‍💻 A little C# about me
 
+```csharp
 public sealed class AakashChougule
 {
     public string Role => ".NET Developer";
@@ -355,14 +305,15 @@ public sealed class AakashChougule
         Learn();
     }
 }
+```
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-🐍 Contribution animation
+## 🐍 Contribution animation
 
-The package includes .github/workflows/snake.yml.
+The package includes `.github/workflows/snake.yml`.
 
-Run that workflow once from the Actions tab. After it succeeds, uncomment this block:
+Run that workflow once from the **Actions** tab. After it succeeds, uncomment this block:
 
 <!--
 <picture>
@@ -378,7 +329,7 @@ Run that workflow once from the Actions tab. After it succeeds, uncomment this b
 
 <div align="center">
 
-.NET Developer · Backend Developer · ASP.NET Core Developer · Full-Stack Developer
+## `.NET Developer` · `Backend Developer` · `ASP.NET Core Developer` · `Full-Stack Developer`
 
 <br/>
 
@@ -394,6 +345,6 @@ Run that workflow once from the Actions tab. After it succeeds, uncomment this b
 
 <br/><br/>
 
-BUILD → TEST → DEBUG → LEARN → IMPROVE → REPEAT
+### `BUILD → TEST → DEBUG → LEARN → IMPROVE → REPEAT`
 
 </div>
