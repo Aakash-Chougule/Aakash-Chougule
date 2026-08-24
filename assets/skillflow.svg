@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#070b17"/><stop offset="100%" stop-color="#0c1526"/></linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22d3ee"/><stop offset="50%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#a78bfa"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1.5" y="1.5" width="1197" height="357" rx="24" fill="url(#bg)" stroke="url(#g)" stroke-opacity=".45" stroke-width="3"/>
+  <text x="55" y="52" fill="#f8fafc" font-size="25" font-weight="800" font-family="Segoe UI, Arial, sans-serif">Engineering Stack — How the pieces connect</text>
+  <text x="55" y="79" fill="#94a3b8" font-size="14" font-family="Segoe UI, Arial, sans-serif">A visual map of the technologies I use and the direction I am growing into</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="800">
+    <g transform="translate(65,135)">
+      <rect width="170" height="86" rx="18" fill="#0b1836" stroke="#22d3ee" stroke-opacity=".7"/>
+      <text x="85" y="36" text-anchor="middle" fill="#67e8f9" font-size="20">C# / .NET</text>
+      <text x="85" y="62" text-anchor="middle" fill="#cbd5e1" font-size="13" font-weight="500">Core backend</text>
+    </g>
+    <g transform="translate(275,135)">
+      <rect width="190" height="86" rx="18" fill="#0b1836" stroke="#60a5fa" stroke-opacity=".7"/>
+      <text x="95" y="36" text-anchor="middle" fill="#93c5fd" font-size="20">ASP.NET CORE</text>
+      <text x="95" y="62" text-anchor="middle" fill="#cbd5e1" font-size="13" font-weight="500">APIs &amp; services</text>
+    </g>
+    <g transform="translate(505,135)">
+      <rect width="170" height="86" rx="18" fill="#111735" stroke="#818cf8" stroke-opacity=".7"/>
+      <text x="85" y="36" text-anchor="middle" fill="#c7d2fe" font-size="20">EF CORE</text>
+      <text x="85" y="62" text-anchor="middle" fill="#cbd5e1" font-size="13" font-weight="500">Persistence</text>
+    </g>
+    <g transform="translate(715,135)">
+      <rect width="180" height="86" rx="18" fill="#10162f" stroke="#6366f1" stroke-opacity=".7"/>
+      <text x="90" y="36" text-anchor="middle" fill="#a5b4fc" font-size="20">POSTGRESQL</text>
+      <text x="90" y="62" text-anchor="middle" fill="#cbd5e1" font-size="13" font-weight="500">Relational data</text>
+    </g>
+    <g transform="translate(935,135)">
+      <rect width="190" height="86" rx="18" fill="#151332" stroke="#a78bfa" stroke-opacity=".7"/>
+      <text x="95" y="36" text-anchor="middle" fill="#d8b4fe" font-size="20">REACT</text>
+      <text x="95" y="62" text-anchor="middle" fill="#cbd5e1" font-size="13" font-weight="500">Frontend</text>
+    </g>
+  </g>
+
+  <g fill="none" stroke="url(#g)" stroke-width="3" stroke-dasharray="9 8" filter="url(#glow)">
+    <path d="M235 178H275"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.3s" repeatCount="indefinite"/></path>
+    <path d="M465 178H505"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.3s" repeatCount="indefinite"/></path>
+    <path d="M675 178H715"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.3s" repeatCount="indefinite"/></path>
+    <path d="M895 178H935"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.3s" repeatCount="indefinite"/></path>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" transform="translate(280,270)">
+    <rect x="0" y="0" width="170" height="54" rx="15" fill="#0f172a" stroke="#f59e0b" stroke-opacity=".5"/>
+    <text x="85" y="34" text-anchor="middle" fill="#fbbf24" font-size="16" font-weight="800">KAFKA</text>
+    <rect x="220" y="0" width="170" height="54" rx="15" fill="#0f172a" stroke="#38bdf8" stroke-opacity=".5"/>
+    <text x="305" y="34" text-anchor="middle" fill="#7dd3fc" font-size="16" font-weight="800">DOCKER</text>
+    <rect x="440" y="0" width="170" height="54" rx="15" fill="#0f172a" stroke="#22c55e" stroke-opacity=".5"/>
+    <text x="525" y="34" text-anchor="middle" fill="#86efac" font-size="16" font-weight="800">AZURE / AWS</text>
+  </g>
+</svg>

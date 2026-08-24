@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#040712"/>
+      <stop offset="50%" stop-color="#081326"/>
+      <stop offset="100%" stop-color="#0a1020"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#3b82f6;#8b5cf6;#22d3ee" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#3b82f6">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#06b6d4;#3b82f6" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#22d3ee;#60a5fa;#a78bfa" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="r1">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="r2">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity=".50"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#6ea8ff" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="30" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="417" rx="29" fill="none" stroke="url(#g)" stroke-width="3" stroke-opacity=".7"/>
+  <rect width="1200" height="420" rx="30" fill="url(#grid)"/>
+
+  <circle cx="170" cy="40" r="240" fill="url(#r1)">
+    <animate attributeName="cx" values="150;250;150" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1030" cy="360" r="250" fill="url(#r2)">
+    <animate attributeName="cx" values="1030;920;1030" dur="12s" repeatCount="indefinite"/>
+  </circle>
+
+  <g transform="translate(68,48)">
+    <circle cx="0" cy="0" r="7" fill="#22c55e">
+      <animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="18" y="6" fill="#86efac" font-size="16" font-weight="700" font-family="Segoe UI, Arial, sans-serif">
+      OPEN TO .NET • BACKEND • FULL-STACK OPPORTUNITIES
+    </text>
+  </g>
+
+  <text x="68" y="142" fill="#ffffff" font-size="60" font-weight="900" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1">AAKASH CHOUGULE</text>
+  <rect x="68" y="165" width="735" height="6" rx="3" fill="url(#g)" filter="url(#glow)">
+    <animate attributeName="width" values="180;735;520;735" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="68" y="220" fill="#dbeafe" font-size="26" font-weight="700" font-family="Segoe UI, Arial, sans-serif">
+    .NET Developer  •  Backend Engineer  •  Full-Stack Builder
+  </text>
+
+  <text x="68" y="261" fill="#94a3b8" font-size="18" font-family="Consolas, Menlo, monospace">
+    C# / ASP.NET Core / Web API / EF Core / PostgreSQL / React
+  </text>
+
+  <g transform="translate(68,309)">
+    <rect width="280" height="64" rx="15" fill="#0b1836" stroke="#38bdf8" stroke-opacity=".45"/>
+    <text x="20" y="25" fill="#7dd3fc" font-size="12" font-weight="800" font-family="Segoe UI, Arial, sans-serif">PRIMARY FOCUS</text>
+    <text x="20" y="48" fill="#ffffff" font-size="17" font-weight="800" font-family="Segoe UI, Arial, sans-serif">ASP.NET CORE BACKEND</text>
+  </g>
+  <g transform="translate(370,309)">
+    <rect width="360" height="64" rx="15" fill="#101735" stroke="#818cf8" stroke-opacity=".45"/>
+    <text x="20" y="25" fill="#a5b4fc" font-size="12" font-weight="800" font-family="Segoe UI, Arial, sans-serif">FLAGSHIP BUILD</text>
+    <text x="20" y="48" fill="#ffffff" font-size="17" font-weight="800" font-family="Segoe UI, Arial, sans-serif">ENTERPRISE E-COMMERCE</text>
+  </g>
+  <g transform="translate(752,309)">
+    <rect width="380" height="64" rx="15" fill="#151332" stroke="#c084fc" stroke-opacity=".45"/>
+    <text x="20" y="25" fill="#d8b4fe" font-size="12" font-weight="800" font-family="Segoe UI, Arial, sans-serif">GROWING INTO</text>
+    <text x="20" y="48" fill="#ffffff" font-size="17" font-weight="800" font-family="Segoe UI, Arial, sans-serif">KAFKA • DOCKER • CLOUD</text>
+  </g>
+
+  <rect x="-260" y="0" width="180" height="420" fill="#ffffff" opacity=".025" transform="skewX(-18)">
+    <animate attributeName="x" values="-260;1450" dur="6.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

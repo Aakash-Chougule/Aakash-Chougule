@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#070b17"/><stop offset="100%" stop-color="#0c1526"/></linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22d3ee"/><stop offset="50%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#a78bfa"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#60a5fa"/></marker>
+  </defs>
+  <rect x="1.5" y="1.5" width="1197" height="317" rx="24" fill="url(#bg)" stroke="url(#g)" stroke-opacity=".45" stroke-width="3"/>
+  <text x="55" y="54" fill="#f8fafc" font-size="25" font-weight="800" font-family="Segoe UI, Arial, sans-serif">My Development Workflow</text>
+  <text x="55" y="80" fill="#94a3b8" font-size="14" font-family="Segoe UI, Arial, sans-serif">From requirement to delivery — with feedback loops instead of random fixes</text>
+
+  <g fill="none" stroke="#60a5fa" stroke-width="2.5" stroke-dasharray="9 8" marker-end="url(#arrow)">
+    <path d="M185 180H250"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.2s" repeatCount="indefinite"/></path>
+    <path d="M410 180H475"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.2s" repeatCount="indefinite"/></path>
+    <path d="M635 180H700"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.2s" repeatCount="indefinite"/></path>
+    <path d="M860 180H925"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.2s" repeatCount="indefinite"/></path>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="800">
+    <g transform="translate(50,135)"><rect width="135" height="90" rx="17" fill="#0b1836" stroke="#22d3ee" stroke-opacity=".6"/><text x="67" y="39" text-anchor="middle" fill="#67e8f9" font-size="18">PLAN</text><text x="67" y="65" text-anchor="middle" fill="#cbd5e1" font-size="12" font-weight="500">Requirement</text></g>
+    <g transform="translate(250,135)"><rect width="160" height="90" rx="17" fill="#0b1836" stroke="#60a5fa" stroke-opacity=".6"/><text x="80" y="39" text-anchor="middle" fill="#93c5fd" font-size="18">DESIGN</text><text x="80" y="65" text-anchor="middle" fill="#cbd5e1" font-size="12" font-weight="500">Data + API</text></g>
+    <g transform="translate(475,135)"><rect width="160" height="90" rx="17" fill="#111735" stroke="#818cf8" stroke-opacity=".6"/><text x="80" y="39" text-anchor="middle" fill="#c7d2fe" font-size="18">BUILD</text><text x="80" y="65" text-anchor="middle" fill="#cbd5e1" font-size="12" font-weight="500">Logic + Integration</text></g>
+    <g transform="translate(700,135)"><rect width="160" height="90" rx="17" fill="#10162f" stroke="#6366f1" stroke-opacity=".6"/><text x="80" y="39" text-anchor="middle" fill="#a5b4fc" font-size="18">VERIFY</text><text x="80" y="65" text-anchor="middle" fill="#cbd5e1" font-size="12" font-weight="500">Test + Debug</text></g>
+    <g transform="translate(925,135)"><rect width="210" height="90" rx="17" fill="#151332" stroke="#a78bfa" stroke-opacity=".6"/><text x="105" y="39" text-anchor="middle" fill="#d8b4fe" font-size="18">SHIP &amp; IMPROVE</text><text x="105" y="65" text-anchor="middle" fill="#cbd5e1" font-size="12" font-weight="500">Docker + Cloud + Refactor</text></g>
+  </g>
+</svg>

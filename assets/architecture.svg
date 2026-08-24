@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070b17"/>
+      <stop offset="100%" stop-color="#0c1526"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#60a5fa"/>
+    </marker>
+  </defs>
+  <rect x="1.5" y="1.5" width="1197" height="557" rx="26" fill="url(#bg)" stroke="url(#g)" stroke-opacity=".5" stroke-width="3"/>
+  <text x="50" y="56" fill="#f8fafc" font-size="27" font-weight="800" font-family="Segoe UI, Arial, sans-serif">Enterprise E-Commerce — Architecture</text>
+  <text x="50" y="83" fill="#94a3b8" font-size="15" font-family="Segoe UI, Arial, sans-serif">Animated flow between the major application boundaries</text>
+
+  <g fill="none" stroke="#60a5fa" stroke-width="2.5" stroke-dasharray="9 8" marker-end="url(#arrow)">
+    <path d="M230 170H330"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.4s" repeatCount="indefinite"/></path>
+    <path d="M550 170H650"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.4s" repeatCount="indefinite"/></path>
+    <path d="M870 170H970"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.4s" repeatCount="indefinite"/></path>
+    <path d="M440 220V315"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.4s" repeatCount="indefinite"/></path>
+    <path d="M760 220V315"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.4s" repeatCount="indefinite"/></path>
+    <path d="M870 370H970"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.4s" repeatCount="indefinite"/></path>
+    <path d="M760 425V482"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.4s" repeatCount="indefinite"/></path>
+    <path d="M440 425V482"><animate attributeName="stroke-dashoffset" values="0;-34" dur="1.4s" repeatCount="indefinite"/></path>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(40,120)">
+      <rect width="190" height="100" rx="18" fill="#0b1836" stroke="#22d3ee" stroke-opacity=".6"/>
+      <text x="95" y="40" text-anchor="middle" fill="#67e8f9" font-size="18" font-weight="800">REACT CLIENT</text>
+      <text x="95" y="69" text-anchor="middle" fill="#cbd5e1" font-size="13">UI • Forms • API Calls</text>
+    </g>
+    <g transform="translate(330,120)">
+      <rect width="220" height="100" rx="18" fill="#0b1836" stroke="#60a5fa" stroke-opacity=".65"/>
+      <text x="110" y="40" text-anchor="middle" fill="#93c5fd" font-size="18" font-weight="800">ASP.NET CORE API</text>
+      <text x="110" y="69" text-anchor="middle" fill="#cbd5e1" font-size="13">Controllers • JWT • DI</text>
+    </g>
+    <g transform="translate(650,120)">
+      <rect width="220" height="100" rx="18" fill="#111735" stroke="#818cf8" stroke-opacity=".65"/>
+      <text x="110" y="40" text-anchor="middle" fill="#c7d2fe" font-size="18" font-weight="800">APPLICATION</text>
+      <text x="110" y="69" text-anchor="middle" fill="#cbd5e1" font-size="13">Use Cases • DTOs • Rules</text>
+    </g>
+    <g transform="translate(970,120)">
+      <rect width="190" height="100" rx="18" fill="#151332" stroke="#a78bfa" stroke-opacity=".65"/>
+      <text x="95" y="40" text-anchor="middle" fill="#d8b4fe" font-size="18" font-weight="800">DOMAIN</text>
+      <text x="95" y="69" text-anchor="middle" fill="#cbd5e1" font-size="13">Entities • Core Models</text>
+    </g>
+    <g transform="translate(330,315)">
+      <rect width="220" height="110" rx="18" fill="#0c1931" stroke="#38bdf8" stroke-opacity=".6"/>
+      <text x="110" y="43" text-anchor="middle" fill="#7dd3fc" font-size="18" font-weight="800">INFRASTRUCTURE</text>
+      <text x="110" y="73" text-anchor="middle" fill="#cbd5e1" font-size="13">EF Core • Repositories</text>
+    </g>
+    <g transform="translate(650,315)">
+      <rect width="220" height="110" rx="18" fill="#10162f" stroke="#6366f1" stroke-opacity=".65"/>
+      <text x="110" y="43" text-anchor="middle" fill="#a5b4fc" font-size="18" font-weight="800">POSTGRESQL</text>
+      <text x="110" y="73" text-anchor="middle" fill="#cbd5e1" font-size="13">Orders • Users • Products</text>
+    </g>
+    <g transform="translate(970,315)">
+      <rect width="190" height="110" rx="18" fill="#141426" stroke="#f59e0b" stroke-opacity=".65"/>
+      <text x="95" y="43" text-anchor="middle" fill="#fbbf24" font-size="18" font-weight="800">KAFKA</text>
+      <text x="95" y="73" text-anchor="middle" fill="#cbd5e1" font-size="13">Order Events • Messaging</text>
+    </g>
+    <g transform="translate(330,480)">
+      <rect width="220" height="60" rx="16" fill="#0f172a" stroke="#22c55e" stroke-opacity=".6"/>
+      <text x="110" y="25" text-anchor="middle" fill="#86efac" font-size="16" font-weight="800">RAZORPAY</text>
+      <text x="110" y="46" text-anchor="middle" fill="#cbd5e1" font-size="12">Payments &amp; Verification</text>
+    </g>
+    <g transform="translate(650,480)">
+      <rect width="220" height="60" rx="16" fill="#0f172a" stroke="#f472b6" stroke-opacity=".6"/>
+      <text x="110" y="25" text-anchor="middle" fill="#f9a8d4" font-size="16" font-weight="800">NOTIFICATION</text>
+      <text x="110" y="46" text-anchor="middle" fill="#cbd5e1" font-size="12">Kafka Consumer • Email</text>
+    </g>
+  </g>
+</svg>
