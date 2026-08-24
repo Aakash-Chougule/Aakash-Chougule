@@ -309,19 +309,23 @@ public sealed class AakashChougule
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🐍 Contribution animation
+<img src="./assets/section-contributions.svg" width="100%" alt="Contribution activity" />
 
-The package includes `.github/workflows/snake.yml`.
+<div align="center">
 
-Run that workflow once from the **Actions** tab. After it succeeds, uncomment this block:
-
-<!--
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aakash-Chougule/Aakash-Chougule/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aakash-Chougule/Aakash-Chougule/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Aakash-Chougule/Aakash-Chougule/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img src="./assets/github-snake-dark.svg" width="100%" alt="Aakash Chougule GitHub contribution activity" />
 </picture>
--->
+
+<br/>
+
+<a href="https://github.com/Aakash-Chougule?tab=overview&from=2026-01-01&to=2026-12-31">
+  <img src="https://img.shields.io/badge/VIEW_FULL_CONTRIBUTION_HISTORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View contribution history" />
+</a>
+
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
