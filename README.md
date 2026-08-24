@@ -1,546 +1,233 @@
-<!-- =========================================================
-  AAKASH CHOUGULE — GITHUB PROFILE README
-  Repository: Aakash-Chougule/Aakash-Chougule
-
-  Design goals:
-  - Strong first impression for recruiters and developers
-  - .NET / Backend positioning
-  - Project-first, engineering-first presentation
-  - Avoid fragile GitHub stats widgets
-========================================================= -->
+<!--
+AAKASH CHOUGULE — ULTIMATE GITHUB PROFILE
+Important: keep the assets/ folder in this repository.
+-->
 
 <div align="center">
 
-<!-- HERO -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,35:172554,70:1D4ED8,100:0EA5E9&text=Aakash%20Chougule&fontColor=FFFFFF&fontSize=58&fontAlignY=34&desc=.NET%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=55&descSize=19&animation=fadeIn"
-width="100%"
-alt="Aakash Chougule"
-/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=980&height=50&lines=Building+secure%2C+scalable+and+maintainable+.NET+applications;ASP.NET+Core+%7C+Web+API+%7C+EF+Core+%7C+PostgreSQL;React+%7C+Kafka+%7C+Docker+%7C+JWT+Authentication;From+business+requirements+to+working+software"
-alt="Typing introduction"
-/>
+<img src="./assets/hero.svg" width="100%" alt="Aakash Chougule hero banner" />
 
 <br/>
 
-Building production-minded software with C#, ASP.NET Core, APIs, databases, messaging and modern frontend technologies.
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=55&lines=Building+secure%2C+scalable+and+maintainable+.NET+applications;C%23+%E2%80%A2+ASP.NET+Core+%E2%80%A2+Web+API+%E2%80%A2+EF+Core+%E2%80%A2+PostgreSQL;React+%E2%80%A2+Kafka+%E2%80%A2+Docker+%E2%80%A2+JWT+%E2%80%A2+Cloud;Business+requirements+%E2%86%92+working+software"
+alt="Animated introduction"
+/>
 
 <p>
   <a href="mailto:aakashc549@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aakash" />
+    <img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aakash-chougule-031524186/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Aakash-Chougule?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
+    <img src="https://img.shields.io/badge/GITHUB-VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Aakash-Chougule&label=PROFILE+VIEWS&color=1f6feb&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Aakash-Chougule?label=FOLLOWERS&style=flat-square&color=238636" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Aakash-Chougule?affiliations=OWNER&label=REPO+STARS&style=flat-square&color=d29922" alt="Repository stars" />
+  <img src="https://komarev.com/ghpvc/?username=Aakash-Chougule&label=PROFILE+VIEWS&color=2563eb&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Aakash-Chougule?label=FOLLOWERS&style=flat-square&color=16a34a" />
+  <img src="https://img.shields.io/github/stars/Aakash-Chougule?affiliations=OWNER&label=REPO+STARS&style=flat-square&color=d97706" />
 </p>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <b>⚙️ BACKEND</b><br/>
-  ASP.NET Core · Web API<br/>
-  EF Core · JWT · SQL
-</td>
-<td align="center" width="33%">
-  <b>🏗️ ENGINEERING</b><br/>
-  Clean Architecture · Kafka<br/>
-  Docker · Testing
-</td>
-<td align="center" width="33%">
-  <b>🌐 FULL STACK</b><br/>
-  React · JavaScript<br/>
-  REST API Integration
-</td>
-</tr>
-</table>
 
 </div>
 
-👨‍💻 About Me
+<img src="./assets/terminal.svg" width="100%" alt="Animated developer terminal" />
 
-I'm Aakash Chougule, a .NET-focused software developer who enjoys turning requirements into complete, working software.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-My strongest area is backend development with C#, ASP.NET Core, REST APIs, Entity Framework Core, SQL databases, authentication, authorization, application architecture and business logic.
+<img src="./assets/section-about.svg" width="100%" alt="About me" />
 
-I also work across the frontend with React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS and Vue.js.
+I'm Aakash Chougule, a .NET-focused software developer who enjoys building complete applications — from database design and backend logic to API security, frontend integration, testing and deployment.
 
-I prefer understanding the full application lifecycle instead of treating every layer as a separate task:
+My strongest focus is C#, ASP.NET Core, REST APIs, Entity Framework Core, SQL databases, authentication, authorization, business logic and maintainable backend architecture.
 
-Business Requirement
-        ↓
-Database Design
-        ↓
-Application Architecture
-        ↓
-Backend / REST API
-        ↓
-Authentication & Authorization
-        ↓
-Business Rules
-        ↓
-Frontend Integration
-        ↓
-Testing & Debugging
-        ↓
-Docker / Deployment
-        ↓
-Monitoring & Improvement
+I also build modern frontend experiences using React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS and Vue.js.
 
-🔭 What I'm focused on
+⚡ Current focus
 
-Building enterprise-style .NET applications
+🔭 Building an Enterprise E-Commerce & Order Management System
 
-Designing clean and maintainable REST APIs
+🔐 Strengthening JWT authentication and role-based authorization
 
-Strengthening Clean Architecture and separation of concerns
+🧱 Practicing Clean / Layered Architecture
 
-Implementing JWT authentication and role-based authorization
+📨 Learning Apache Kafka and event-driven application design
 
-Working with PostgreSQL, SQL Server and MySQL
+🐳 Working with Docker and Docker Compose
 
-Learning event-driven application design with Apache Kafka
+🧪 Improving unit testing and integration testing
 
-Containerizing services using Docker & Docker Compose
+☁️ Learning Azure, AWS and CI/CD
 
-Improving testing, CI/CD, Azure and AWS knowledge
+🎯 Open to .NET Developer, Backend Developer and Full-Stack Developer roles
 
-Building modern React + ASP.NET Core full-stack applications
+My engineering standard: make it work, understand why it works, make it maintainable, secure it, test it, then improve it.
 
-Engineering mindset: make it work, understand why it works, make it maintainable, secure it, test it, then improve it.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-🚀 Flagship Project
+<img src="./assets/section-stack.svg" width="100%" alt="Technology stack" />
 
-<table>
-<tr>
-<td width="100%" valign="top">
+<div align="center">
 
-🛒 Enterprise E-Commerce & Order Management System
+Core Stack
 
-A production-minded full-stack e-commerce project built to practice real-world software engineering concepts instead of only basic CRUD.
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,bootstrap,tailwind,vue&perline=9" />
 
-🧰 Stack
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
-</p>
+Data • Messaging • DevOps • Cloud
 
-🏗️ Architecture
+<img src="https://skillicons.dev/icons?i=postgres,mysql,kafka,docker,git,github,postman,visualstudio,vscode,azure,aws&perline=11" />
 
-EnterpriseECommerce
-│
-├── EnterpriseECommerce.Domain
-│   ├── Entities
-│   ├── Enums
-│   └── Core Domain Models
-│
-├── EnterpriseECommerce.Application
-│   ├── DTOs
-│   ├── Interfaces
-│   ├── Services
-│   └── Business Rules
-│
-├── EnterpriseECommerce.Infrastructure
-│   ├── AppDbContext
-│   ├── Entity Configurations
-│   ├── Repositories
-│   ├── Authentication
-│   └── External Integrations
-│
-├── EnterpriseECommerce.API
-│   ├── Controllers
-│   ├── Middleware
-│   ├── Dependency Injection
-│   └── API Configuration
-│
-├── NotificationService
-│   └── Kafka Consumer / Notifications
-│
-├── UnitTests
-├── IntegrationTests
-└── React Client
+<br/><br/>
 
-⚡ Engineering features
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge&logo=swagger&logoColor=85EA2D" />
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
-User registration and login
-
-JWT token generation and validation
-
-Role-based authorization
-
-Product and category management
-
-Inventory tracking
-
-Shopping cart and checkout
-
-Order creation and order lifecycle
-
-GST-aware pricing logic
-
-CGST + SGST for intra-state transactions
-
-IGST for inter-state transactions
-
-HSN-related tax handling
-
-Razorpay payment integration
-
-Server-side payment verification
-
-Kafka event publishing
-
-Notification consumer service
-
-Entity Framework Core migrations
-
-PostgreSQL persistence
-
-Dockerized development workflow
-
-Unit testing structure
-
-Integration testing structure
-
-React frontend integration
-
-Layered / Clean Architecture principles
+</div>
 
 <br/>
 
-<a href="https://github.com/Aakash-Chougule/EnterpriseECommerce">
-  <img src="https://img.shields.io/badge/OPEN_FLAGSHIP_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open Enterprise E-Commerce project" />
-</a>
+<img src="./assets/skillflow.svg" width="100%" alt="Animated engineering stack flow" />
 
-</td>
-</tr>
-</table>
+<details>
+<summary><b>🔎 Expand full engineering toolbox</b></summary>
 
-🧠 Engineering Focus
+.NET / Backend
 
-<table>
-<tr>
+C# · .NET · ASP.NET Core · ASP.NET MVC · ASP.NET Web API · Web Forms · Windows Forms · Entity Framework Core · ADO.NET · LINQ · Dependency Injection · Repository Pattern · Service Layer · Middleware · DTOs · Validation
 
-<td width="50%" valign="top">
+Data
 
-⚙️ Backend Engineering
-
-C#
-├── .NET / ASP.NET Core
-├── ASP.NET MVC
-├── ASP.NET Web API
-├── RESTful APIs
-├── Entity Framework Core
-├── ADO.NET
-├── LINQ
-├── Dependency Injection
-├── Repository Pattern
-├── Service Layer
-├── DTO Mapping
-├── Validation
-├── Exception Handling
-├── Middleware
-├── JWT Authentication
-└── Role-Based Authorization
-
-</td>
-
-<td width="50%" valign="top">
-
-🗄️ Data Engineering
-
-Relational Databases
-├── PostgreSQL
-├── Microsoft SQL Server
-├── MySQL
-├── Tables & Relationships
-├── Primary / Foreign Keys
-├── Joins
-├── Aggregations
-├── Indexing Basics
-├── Stored Procedures
-├── Transactions
-├── EF Core Migrations
-└── Query Optimization Basics
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-📨 Distributed / DevOps
-
-Engineering Tools
-├── Apache Kafka
-├── Producer / Consumer Flow
-├── Event-Driven Concepts
-├── Docker
-├── Docker Compose
-├── Git
-├── GitHub
-├── Postman
-├── CI/CD Concepts
-├── Azure Learning
-└── AWS Learning
-
-</td>
-
-<td width="50%" valign="top">
-
-🎨 Frontend
-
-Frontend Development
-├── React.js
-├── JavaScript
-├── HTML5
-├── CSS3
-├── Bootstrap
-├── Tailwind CSS
-├── Vue.js
-├── API Integration
-├── Forms & Validation
-└── Responsive UI
-
-</td>
-
-</tr>
-</table>
-
-🛠️ Technology Toolbox
-
-Backend & Microsoft Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# and .NET" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_API-005571?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
+PostgreSQL · Microsoft SQL Server · MySQL · SQL · Joins · Relationships · Indexes · Transactions · Stored Procedures · EF Core Migrations
 
 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,vue" alt="Frontend stack" />
-</p>
+React.js · JavaScript · HTML5 · CSS3 · Bootstrap · Tailwind CSS · Vue.js · Responsive UI · REST API Integration
 
-Databases
+Engineering / DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL and MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</p>
+Apache Kafka · Docker · Docker Compose · Git · GitHub · Postman · Visual Studio · VS Code · CI/CD Concepts
 
-Messaging, DevOps & Tools
+Cloud — learning & deployment focus
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kafka,docker,git,github,postman,visualstudio,vscode" alt="Engineering tools" />
-</p>
+Microsoft Azure · AWS
 
-Cloud Learning
+</details>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,aws" alt="Azure and AWS" />
-</p>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-📌 Selected Projects
+<img src="./assets/section-projects.svg" width="100%" alt="Projects" />
 
-<table>
-<tr>
+🛒 Enterprise E-Commerce & Order Management System
 
-<td width="50%" valign="top">
+A production-minded full-stack e-commerce project built to practice real software engineering concepts instead of stopping at basic CRUD.
 
-🛒 Enterprise E-Commerce
+<div align="center">
 
-Enterprise-style full-stack commerce system
+<img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square" />
 
-ASP.NET Core React PostgreSQL Kafka Docker JWT
+</div>
 
 Highlights
 
-Authentication & authorization
+JWT authentication and role-based authorization
 
-Order management
+Product, category and inventory management
 
-GST calculation
+Shopping cart and checkout
 
-Payments
+Order lifecycle
 
-Kafka notifications
+GST / CGST / SGST / IGST business rules
 
-Docker workflow
+Razorpay payment flow and verification
+
+Kafka-based notification architecture
+
+Dockerized services
+
+Unit and integration testing structure
+
+React frontend connected to ASP.NET Core APIs
+
+<div align="center">
 
 <a href="https://github.com/Aakash-Chougule/EnterpriseECommerce">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN_FLAGSHIP_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<br/>
+
+More selected repositories
+
+Project
+
+What it demonstrates
+
+Repository
 
 🎓 Student Management System API
 
-Backend CRUD and REST API project
+ASP.NET Core Web API, CRUD, JWT, middleware, EF Core, SQL Server
 
-C# ASP.NET Web API SQL
+Open
 
-Highlights
+🤖 ChatBot API
 
-REST endpoints
+.NET API development and container-ready setup
 
-CRUD workflows
-
-Database integration
-
-Request / response handling
-
-Backend business logic
-
-<a href="https://github.com/Aakash-Chougule/Student-Management-System-API">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+Open
 
 🏪 Store Management System
 
-Desktop business management application
+C# business application and database CRUD workflows
 
-C# Windows Forms Database CRUD
-
-Highlights
-
-Windows desktop UI
-
-Database connectivity
-
-Store workflows
-
-Business data management
-
-CRUD operations
-
-<a href="https://github.com/Aakash-Chougule/store_management_system">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+Open
 
 📦 Inventory Management System
 
-Inventory and stock management application
+ASP.NET / C# inventory and stock workflows
 
-ASP.NET C# MVC SQL
+Open
 
-Highlights
+<details>
+<summary><b>🧪 More repositories I've built</b></summary>
 
-Inventory management
+🌦️ Weather App
 
-Product management
+🖼️ Image Converter
 
-Database-backed CRUD
+🎬 Embedded Video Converter
 
-MVC workflow
+♟️ Chess with AI
 
-Business application structure
+🧑‍💻 Coding Wall Project
 
-<a href="https://github.com/Aakash-Chougule/Inventry_Management_System">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+</details>
 
-</td>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-</tr>
-</table>
+<img src="./assets/section-architecture.svg" width="100%" alt="Architecture" />
 
-🏗️ How I Structure a Backend Feature
+<img src="./assets/architecture.svg" width="100%" alt="Animated enterprise architecture" />
 
-HTTP Request
-    │
-    ▼
-Controller / Endpoint
-    │
-    ▼
-Validation
-    │
-    ▼
-Application Service
-    │
-    ├── Business Rules
-    ├── Authorization Rules
-    └── DTO Mapping
-    │
-    ▼
-Repository / DbContext
-    │
-    ▼
-PostgreSQL / SQL Server / MySQL
-    │
-    ▼
-Response DTO
-    │
-    ▼
-HTTP Response
-
-For asynchronous workflows:
-
-Business Event
-    │
-    ▼
-ASP.NET Core API
-    │
-    ▼
-Kafka Producer
-    │
-    ▼
-Kafka Topic
-    │
-    ▼
-Consumer Service
-    │
-    ├── Notification
-    ├── Email
-    └── Future Integrations
-
-🔐 Security Practices I Care About
+🔐 Security principles I care about
 
 Password hashing instead of storing plain-text passwords
 
@@ -548,265 +235,93 @@ JWT-based authentication
 
 Role-based authorization
 
-Input validation
+Server-side validation
 
-Server-side business-rule validation
+Secrets outside source control
 
-Avoiding secrets directly in source control
-
-Configuration through environment-specific settings
+Protected API endpoints
 
 Proper HTTP status codes
 
-Protecting restricted API endpoints
+Server-side payment verification
 
-Verifying external payment responses on the server
+Global exception handling
 
-Handling exceptions without exposing sensitive implementation details
+Logging without exposing sensitive implementation details
 
-🧪 Development & Testing Workflow
+🧠 Backend feature flow
 
-Understand Requirement
-        ↓
-Break Into Features
-        ↓
-Design Data Model
-        ↓
-Define API Contract
-        ↓
-Implement Business Logic
-        ↓
-Connect Persistence
-        ↓
-Test With Postman
-        ↓
-Add Unit / Integration Tests
-        ↓
-Integrate Frontend
-        ↓
-Run With Docker
-        ↓
-Review → Refactor → Improve
+HTTP Request
+    ↓
+Controller / Endpoint
+    ↓
+Validation
+    ↓
+Application Service
+    ↓
+Business Rules
+    ↓
+Repository / DbContext
+    ↓
+Database
+    ↓
+Response DTO
+    ↓
+HTTP Response
 
-💻 Developer Snapshot
+📨 Event-driven flow
+
+Business Event
+    ↓
+ASP.NET Core API
+    ↓
+Kafka Producer
+    ↓
+Kafka Topic
+    ↓
+Consumer Service
+    ↓
+Notification / Email / Future Integrations
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/section-workflow.svg" width="100%" alt="Workflow" />
+
+<img src="./assets/workflow.svg" width="100%" alt="Animated development workflow" />
+
+🐛 How I debug
+
+REPRODUCE
+    ↓
+READ THE ERROR
+    ↓
+IDENTIFY THE FAILING LAYER
+    ↓
+CHECK REQUEST / LOGS / DATABASE
+    ↓
+ISOLATE ROOT CAUSE
+    ↓
+FIX
+    ↓
+RETEST THE COMPLETE FLOW
+
+🧭 Engineering roadmap
+
+C# → ASP.NET Core → REST APIs → EF Core + SQL → Security → Architecture → Testing → Kafka → Docker → CI/CD → Azure/AWS → System Design
 
 <div align="center">
 
-Area
-
-Current Focus
-
-Primary Language
-
-C#
-
-Backend
-
-ASP.NET Core / Web API
-
-Architecture
-
-Clean & Layered Architecture
-
-ORM
-
-Entity Framework Core
-
-Databases
-
-PostgreSQL / SQL Server / MySQL
-
-Security
-
-JWT / Role-Based Authorization
-
-Messaging
-
-Apache Kafka
-
-Frontend
-
-React.js / JavaScript
-
-Containers
-
-Docker / Docker Compose
-
-API Testing
-
-Postman
-
-Version Control
-
-Git / GitHub
-
-Cloud Learning
-
-Azure / AWS
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-IN_PROGRESS-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KAFKA-BUILDING-111827?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/DOCKER-PRACTICING-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AZURE-LEARNING-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-LEARNING-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 
 </div>
 
-⚙️ What I Can Build
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-🌐 Web Backends
-
-REST APIs
-
-ASP.NET Core applications
-
-MVC applications
-
-CRUD systems
-
-Authentication APIs
-
-Database-driven systems
-
-</td>
-
-<td width="33%" valign="top">
-
-🏢 Business Applications
-
-Inventory systems
-
-Order management
-
-Store management
-
-Student management
-
-Admin dashboards
-
-Desktop applications
-
-</td>
-
-<td width="33%" valign="top">
-
-🔗 Integrations
-
-React + .NET
-
-Database integration
-
-Payment integration
-
-Kafka messaging
-
-Email/notification flows
-
-Dockerized services
-
-</td>
-</tr>
-</table>
-
-🧭 Engineering Roadmap
-
-Strong C# Fundamentals
-        ↓
-ASP.NET Core
-        ↓
-REST API Design
-        ↓
-Entity Framework Core
-        ↓
-SQL & Database Design
-        ↓
-Authentication / Authorization
-        ↓
-Clean Architecture
-        ↓
-Testing
-        ↓
-Apache Kafka
-        ↓
-Docker
-        ↓
-CI/CD
-        ↓
-Azure / AWS
-        ↓
-System Design
-        ↓
-Scalable Distributed Applications
-
-🧩 Problem-Solving Style
-
-When something breaks, I try to avoid random fixes.
-
-Observe the problem
-        ↓
-Reproduce it
-        ↓
-Read the error carefully
-        ↓
-Identify the failing layer
-        ↓
-Check logs / request / database
-        ↓
-Find the root cause
-        ↓
-Implement the fix
-        ↓
-Retest the complete flow
-        ↓
-Document what changed
-
-That approach is especially useful when debugging APIs, dependency injection, authentication, database migrations, Docker services and frontend/backend integrations.
-
-🧠 Software Engineering Principles
-
-<div align="center">
-
-Principle
-
-What It Means To Me
-
-🎯 Requirements First
-
-Understand what the software must actually solve
-
-🧱 Separation of Concerns
-
-Keep responsibilities clear across layers
-
-🔐 Security by Design
-
-Authentication and validation are not afterthoughts
-
-🗃️ Good Data Modeling
-
-Database structure affects the whole application
-
-🧩 Readable Code
-
-Code should be understandable after months, not only today
-
-🧪 Test Critical Flows
-
-Protect important business behavior
-
-🐛 Debug the Cause
-
-Fix the underlying issue, not only the symptom
-
-📚 Document Decisions
-
-Help the next developer understand the system
-
-🔄 Continuous Improvement
-
-Refactor, learn and improve incrementally
-
-</div>
-
-👨‍💻 A Little C# About Me
+👨‍💻 A little C# about me
 
 public sealed class AakashChougule
 {
@@ -828,90 +343,57 @@ public sealed class AakashChougule
         "System Design"
     ];
 
-    public void Build()
+    public void Work()
     {
         UnderstandRequirements();
         Design();
-        Implement();
+        Build();
         Test();
         Debug();
         Refactor();
-        Deploy();
+        Ship();
         Learn();
     }
-
-    private void UnderstandRequirements() { }
-    private void Design() { }
-    private void Implement() { }
-    private void Test() { }
-    private void Debug() { }
-    private void Refactor() { }
-    private void Deploy() { }
-    private void Learn() { }
 }
 
-🎯 Opportunity Focus
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+🐍 Contribution animation
+
+The package includes .github/workflows/snake.yml.
+
+Run that workflow once from the Actions tab. After it succeeds, uncomment this block:
+
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aakash-Chougule/Aakash-Chougule/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aakash-Chougule/Aakash-Chougule/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Aakash-Chougule/Aakash-Chougule/output/github-snake.svg" />
+</picture>
+-->
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/section-connect.svg" width="100%" alt="Connect" />
 
 <div align="center">
 
-.NET Developer · ASP.NET Core Developer · Backend Developer · Full-Stack Developer
-
-</div>
-
-I am interested in environments where I can contribute to real software engineering work such as:
-
-Enterprise .NET applications
-
-REST API development
-
-Backend business logic
-
-SQL/database-driven systems
-
-Authentication and authorization
-
-React + ASP.NET Core applications
-
-Event-driven services
-
-Dockerized applications
-
-Cloud-ready backend systems
-
-Debugging, maintenance and feature development
-
-🤝 Let's Connect
-
-<div align="center">
-
-Building something with .NET, APIs or backend systems?
-
-<p>
-I enjoy discussing software projects, backend engineering and development opportunities.
-</p>
-
-<p>
-  <a href="mailto:aakashc549@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/aakash-chougule-031524186/">
-    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Aakash-Chougule">
-    <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+.NET Developer · Backend Developer · ASP.NET Core Developer · Full-Stack Developer
 
 <br/>
+
+<a href="mailto:aakashc549@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aakash-chougule-031524186/">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Aakash-Chougule?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
 
 BUILD → TEST → DEBUG → LEARN → IMPROVE → REPEAT
-
-<br/>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,35:172554,70:1D4ED8,100:0EA5E9&section=footer"
-width="100%"
-alt="Footer"
-/>
 
 </div>
